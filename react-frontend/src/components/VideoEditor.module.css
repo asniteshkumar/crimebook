@@ -1,0 +1,55 @@
+.editor {
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.video_canva {
+  width: 100%;
+  margin: 0 auto;
+  height: 450px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  object-fit: fill;
+  height: 100%;
+  overflow: hidden;
+
+  border-radius: 8px;
+}
+
+.trimbtn:hover {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.trimbtn {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+.savebtn {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid black;
+}
+
+.savebtn:hover {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+.editor input {
+  outline: none;
+  padding: 0 10px;
+  border-radius: 3px;
+  border: none;
+  width: 228px;
+}

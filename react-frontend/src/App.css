@@ -1,0 +1,7 @@
+body {
+  background-color: #fde400;
+}
+
+ul {
+  list-style-image: url('./assets/images/alexa.svg');
+}

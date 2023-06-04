@@ -1,0 +1,84 @@
+.detail {
+  width: 70%;
+  margin: 0 auto;
+  /* padding: 85px 0 80px; */
+  padding: 90px 0 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fde400;
+}
+
+.detailBody {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: black;
+  /* padding: 20px; */
+}
+
+.carousel {
+  background-color: black;
+  height: 350px;
+  width: 800px;
+}
+
+.image {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+.content {
+  width: 800px;
+  background-color: black;
+  color: #fde400;
+}
+
+.muted {
+  color: #fde400a2;
+  font-size: 0.75rem;
+}
+
+.deletebtn:hover {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.deletebtn {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+.editbtn {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.editbtn:hover {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.doc {
+  border-top: 1px dashed #fde400;
+}
+
+.inp {
+  background-color: black;
+  color: #fde400;
+  border-color: #fde400;
+}
+
+.inp:focus {
+  background-color: black;
+  color: #fde400;
+  border-color: #fde400;
+}

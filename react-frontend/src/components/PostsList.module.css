@@ -1,0 +1,47 @@
+.cardPage {
+  width: 40%;
+  margin: 0 auto;
+  padding-top: 120px;
+}
+
+.align {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.card {
+  border-radius: 1.5rem;
+  background-color: black;
+  color: #fde400;
+}
+.title {
+  font-size: 2rem;
+  width: 76%;
+}
+.imageBorder {
+  border-radius: 1rem;
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+
+.postbtn {
+  color: #fde400;
+  bottom: 25px;
+  right: 4em;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.postbtn:hover{
+  color: black;
+  border: 1px solid black;
+}
+
+.thumbnail {
+  height: 30F0px;
+}
+
+.muted{
+  color: #fde400a2
+}
