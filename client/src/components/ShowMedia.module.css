@@ -1,0 +1,76 @@
+.layout {
+  margin: 0 auto;
+  /* width: 750px;
+  height: 500px; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.close {
+  /* color: red;
+  margin-left: 97%;
+  padding: 0.1em;
+  font-weight: bolder;
+  font-size: 1.5em;
+  background-color: transparent;
+  border: none; */
+  color: black;
+  border: none;
+}
+
+.container {
+  margin: 0 1.2em;
+  width: 230px;
+  height: 250px;
+}
+
+.media_cont {
+  width: 200px;
+  height: 200px;
+}
+
+.media {
+  object-fit: scale-down;
+  width: 100%;
+  height: 100%;
+}
+
+/* btn styles */
+
+.deletebtn:hover {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.deletebtn {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+.editbtn {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.editbtn:hover {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+}
+
+.donebtn:hover {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.donebtn {
+  background-color: #fde400;
+  color: black;
+  border: 1px solid black;
+  width: 10%;
+}

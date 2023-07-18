@@ -1,0 +1,45 @@
+.post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  margin: 0;
+  padding: 20px;
+  background-color: black;
+  color: #fde400;
+  width: 500px;
+}
+
+.postbtn {
+  width: 100%;
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.postbtn:hover {
+  background-color: #fde400;
+  color: black;
+}
+
+.image {
+  text-align: center;
+}
+
+.media {
+  background-color: #dde0e3;
+  color: #212529;
+}
+
+.media:active {
+  background-color: #dde0e3;
+  color: #212529;
+}
+
+.media:hover {
+  background-color: #dde0e3;
+  color: #212529;
+}

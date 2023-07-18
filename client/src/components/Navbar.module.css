@@ -1,0 +1,62 @@
+.nav {
+  background-color: black;
+  color: #fde400;
+  top: 1em;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.link p {
+  font-size: 1.1rem;
+}
+
+.brand p {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  gap: 1em;
+}
+
+.link a {
+  text-decoration: none;
+  color: #fde400;
+}
+
+.loginbtn {
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.loginbtn:hover {
+  background-color: #fde400;
+  color: black;
+}
+
+.signbtn {
+  background-color: #fde400;
+}
+
+.signbtn:hover {
+  .signbtn {
+    background-color: #fde400;
+  }
+}
+
+.cta {
+  gap: 1em;
+}
+
+.logout {
+  background-color: black;
+  color: #fde400;
+  border: none;
+}
+
+.logbtn{
+  color: #fde400;
+  border: none;
+}

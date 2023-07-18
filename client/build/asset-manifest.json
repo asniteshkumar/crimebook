@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.502f531c.css",
+    "main.js": "/static/js/main.87bc0c78.js",
+    "static/media/security.png": "/static/media/security.2b123cec056475570833.png",
+    "static/media/car.png": "/static/media/car.de5626c49947607c2500.png",
+    "static/media/mouse.png": "/static/media/mouse.de52668b80c9bb756527.png",
+    "static/media/logo.png": "/static/media/logo.4b793597d61c9c4c6f87.png",
+    "static/media/login.svg": "/static/media/login.511563eda7271e16ae1483e9b93e56f1.svg",
+    "static/media/right_newpost.svg": "/static/media/right_newpost.af026af27207ae6ab5f4ee85d5916c76.svg",
+    "static/media/resetpwd.svg": "/static/media/resetpwd.8d6b52512e660b2c7914ca4214c1b90a.svg",
+    "static/media/left_newpost.svg": "/static/media/left_newpost.1bab0d8ddbf7cde0427ec41fa0bb197b.svg",
+    "static/media/editpost.svg": "/static/media/editpost.10e26f524bd161c0c7f21cf52e231c34.svg",
+    "static/media/signup.svg": "/static/media/signup.0a7e6ba2f3228d9b0ab9c6bf2c0916d0.svg",
+    "index.html": "/index.html",
+    "static/media/alexa.svg": "/static/media/alexa.4cf2c5bdb4bbecfeab5a.svg",
+    "main.502f531c.css.map": "/static/css/main.502f531c.css.map",
+    "main.87bc0c78.js.map": "/static/js/main.87bc0c78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.502f531c.css",
+    "static/js/main.87bc0c78.js"
+  ]
+}

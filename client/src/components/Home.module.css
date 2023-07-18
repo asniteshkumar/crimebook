@@ -1,0 +1,49 @@
+body {
+  background-color: #fde400;
+}
+.carouselSub {
+  color: #fde400;
+  background-color: rgb(0, 0, 0, 0.5);
+}
+.slides {
+  padding-top: 5.5%;
+  border: 10px;
+}
+.carouselTitle {
+  background-color: rgb(0, 0, 0, 0.5);
+  border-radius: 5%;
+  color: #fde400;
+}
+.content {
+  text-align: center;
+  padding: 0 1rem;
+  font-size: 1.2rem;
+  width: 65%;
+  margin: 0 auto;
+  /* text-align: center; */
+  text-align: justify;
+}
+.heading {
+  padding-top: 2.5%;
+  text-align: center;
+}
+.secondheading {
+  text-align: center;
+}
+.Homefooter {
+  background-color: black;
+  color: #fde400;
+  text-align: center;
+  padding: 1% 0;
+}
+.aTag {
+  text-decoration: none;
+}
+
+footer a{
+  color: #fde400;
+}
+
+footer a:hover{
+  color: #fff;
+}

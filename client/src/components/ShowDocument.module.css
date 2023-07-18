@@ -1,0 +1,25 @@
+.layout {
+  margin: 0 auto;
+  /* width: 750px;
+  height: 500px; */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.close {
+  /* color: red;
+  margin-left: 97%;
+  padding: 0.1em;
+  font-weight: bolder;
+  font-size: 1.5em;
+  background-color: transparent;
+  border: none; */
+  color: black;
+  border: none;
+}
+
+.frame{
+  height: 550px;
+  width: 800px;
+}

@@ -1,0 +1,31 @@
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10em;
+  height: 100vh;
+}
+
+.container {
+  margin: 0;
+  width: 425px;
+  padding: 20px;
+  background-color: black;
+  color: #fde400;
+}
+
+.signupbtn {
+  width: 100%;
+  background-color: black;
+  color: #fde400;
+  border: 1px solid #fde400;
+}
+
+.signupbtn:hover {
+  background-color: #fde400;
+  color: black;
+}
+
+.muted {
+  color: #fde400a2;
+}
